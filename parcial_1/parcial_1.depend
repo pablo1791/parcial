@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1507249552 source:d:\campospablo\parcial\parcial_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+	"pantalla.h"
+	"contrataciones.h"
+
+1507239746 source:d:\campospablo\parcial\parcial_1\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+
+1507239746 d:\campospablo\parcial\parcial_1\validar.h
+
+1507249860 source:d:\campospablo\parcial\parcial_1\pantalla.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+	"pantalla.h"
+
+1507249161 d:\campospablo\parcial\parcial_1\pantalla.h
+
+1507248473 source:d:\campospablo\parcial\parcial_1\contrataciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+	"pantalla.h"
+	"contrataciones.h"
+	"pantalla.h"
+	"informes.h"
+
+1507248503 d:\campospablo\parcial\parcial_1\contrataciones.h
+
+1507244831 d:\campospablo\parcial\parcial_1\informes.h
+
+1507249801 source:d:\campospablo\parcial\parcial_1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+	"pantalla.h"
+	"contrataciones.h"
+
